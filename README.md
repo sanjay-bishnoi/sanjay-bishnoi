@@ -1,5 +1,5 @@
 # Hi, I'm Sanjay 👋
-First-year CS student at BITS Pilani, into Linux, Python, and figuring out how things work.
+First-year CS student, into Linux, Python, and figuring out how things work.
 
 ## Stack
 Python · Linux · Git/GitHub
